@@ -1,0 +1,11 @@
+.winlose{
+    width: 150px;
+    padding: 4px 10px;
+    border-radius: 10px;
+    border: 2px solid white;
+    margin-bottom: 30px;
+}
+.winlose p{
+    color: white;
+    font-weight: bold;
+}
